@@ -7,3 +7,6 @@ The file bootscreen_animated.avi already has this format.
 For flashing onto the MMB-322 this file must be integrated into the sysconf-partition.
 Actually this was never tested.
 
+The following files may not be opensource:
+basic_animation.avi
+bootscreen_animated.avi, because it includes the above file.
