@@ -1,0 +1,9 @@
+The final bootscreen file must have the following specs so it works:
+format: MPEG-4 Video (DIVX)
+resolution: 720x480
+framerate: 25
+
+The file bootscreen_animated.avi already has this format.
+For flashing onto the MMB-322 this file must be integrated into the sysconf-partition.
+Actually this was never tested.
+
